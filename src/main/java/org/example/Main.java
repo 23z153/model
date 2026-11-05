@@ -2,7 +2,7 @@ package org.example;
 
 import java.util.Scanner;
 
-#test commit
+//test commit
 
 public class Main {
     static void main() {
