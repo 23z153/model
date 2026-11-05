@@ -2,6 +2,8 @@ package org.example;
 
 import java.util.Scanner;
 
+#test commit
+
 public class Main {
     static void main() {
         Scanner scn = new Scanner(System.in);
